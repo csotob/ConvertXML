@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categoryList>
+    <categories>
+        <categoryId>1</categoryId>
+        <categoryName>Muebles</categoryName>
+    </categories>
+    <categories>
+        <categoryId>2</categoryId>
+        <categoryName>Juguetes</categoryName>
+    </categories>
+    <categories>
+        <categoryId>3</categoryId>
+        <categoryName>Tecnología</categoryName>
+    </categories>
+    <categories>
+        <categoryId>4</categoryId>
+        <categoryName>Cocinas</categoryName>
+    </categories>
+</categoryList>

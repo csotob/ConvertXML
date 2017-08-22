@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categoryList2>
+    <categories>
+        <categoryId>1</categoryId>
+        <staticValue>Static Value</staticValue>
+        <categoryName>Muebles</categoryName>
+        <date>2017-08-21</date>
+    </categories>
+    <categories>
+        <categoryId>2</categoryId>
+        <staticValue>Static Value</staticValue>
+        <categoryName>Juguetes</categoryName>
+        <date>2017-08-21</date>
+    </categories>
+    <categories>
+        <categoryId>3</categoryId>
+        <staticValue>Static Value</staticValue>
+        <categoryName>Tecnología</categoryName>
+        <date>2017-08-21</date>
+    </categories>
+    <categories>
+        <categoryId>4</categoryId>
+        <staticValue>Static Value</staticValue>
+        <categoryName>Cocinas</categoryName>
+        <date>2017-08-21</date>
+    </categories>
+</categoryList2>
